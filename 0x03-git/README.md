@@ -1,1 +1,1 @@
-Not empty
+This file is mandatory in projects
